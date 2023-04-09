@@ -48,11 +48,11 @@ form{
 }
 
 #credit-card .front{
-  background: url(./assets/card-front.png) no-repeat;
+  background: url(../assets/card-front.png) no-repeat;
   transform: rotateY(0);
 }
 #credit-card .back{
-  background: url(./assets/card-back.png) no-repeat;
+  background: url(../assets/card-back.png) no-repeat;
   transform: rotateY(-180deg);
 }
 
